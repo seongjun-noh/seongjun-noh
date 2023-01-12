@@ -6,10 +6,7 @@
 백엔드 개발자를 목표로 노력하고 있습니다.
 
 ## Contact
-<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
-<img src="https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=black">
-<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black">
-<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black">
+<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=black"><img src="https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=black"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black">
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
