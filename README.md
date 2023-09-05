@@ -6,7 +6,7 @@
 백엔드 개발자를 목표로 노력하고 있습니다.
 
 ## Contact
-[<img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=black">](mailto:seongjun5657@gmail.com) [<img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=blogger&logoColor=black">](https://seongjun-noh.github.io/) [<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=black">](https://www.instagram.com/a6sence/) [<img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=black">](https://www.facebook.com/profile.php?id=100005781037959)
+[<img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=black">](mailto:seongjun5657@gmail.com) [<img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=blogger&logoColor=black">](https://seongjun-noh.github.io/) [<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=black">](https://www.instagram.com/x_.a6sence/) [<img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=black">](https://www.facebook.com/profile.php?id=100005781037959)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
