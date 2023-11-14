@@ -14,7 +14,7 @@
 <br><br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=black"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=springboot&logoColor=black"> 
 <br><br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=black">
 <br><br>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=black"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=black">
 <br><br>
