@@ -1,20 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello&fontSize=90&fontAlignY=35&fontAlign=70&desc=I'm%20Seongjun&descAlignY=52&descSize=30&descAlign=75)
 
 ## Introduce
-안녕하세요<br>
-한밭대학교에서 컴퓨터공학을 전공하고 있습니다.<br>
-백엔드 개발자를 목표로 노력하고 있습니다.
+저는 끊임없이 배우고 도전하는 노성준 입니다.  
+코드를 통해 세상을 바꾸고, 개선할 방법을 항상 모색하고 있습니다.
 
 ## Contact
-[<img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=black">](mailto:seongjun5657@gmail.com) [<img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=blogger&logoColor=black">](https://seongjun-noh.github.io/) [<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=black">](https://www.instagram.com/x_.a6sence/) [<img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=black">](https://www.facebook.com/profile.php?id=100005781037959)
-
+[<img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=black">](mailto:seongjun5657@gmail.com) [<img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=blogger&logoColor=black">](https://seongjun-noh.github.io/)
 ## Tech Stack
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<br>  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=black">
+<br>  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=black">
 <br><br>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=black">
+<br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=black"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=springboot&logoColor=black"> 
 <br><br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=black">
+<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=black">
 <br><br>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=black"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=black">
 <br><br>
